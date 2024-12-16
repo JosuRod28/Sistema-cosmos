@@ -1,0 +1,358 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modificar_Registros_Clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modificar_Registros_Clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Registro(admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Registro(admin).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\AppData\\Local\\Temp\\.vsdbgsrc\\0ca2f87ea60c6dde4a791ff6ea6b0e1d455ff3a32818c5d8a8e8b9395d5b1b38\\ConsultarVentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modificar_Registros_Ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modificar_Registros_Ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\ConsultarVentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsultarVentas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\NuevoUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NuevoUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Bienvenido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bienvenido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Bienvenido.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bienvenido.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Autenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Autenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelo\\Usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\DetalleVenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelo\\DetalleVenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\Clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelo\\Clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Registro(user).Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Registro(user).Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\MyApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MyApplicationContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\Ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modelo\\Ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\COSMOSCOM.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:COSMOSCOM.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\ConsultarClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsultarClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\CambiarTarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CambiarTarifa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\AdministraUsuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AdministraUsuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "Modelo\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\DetalleVenta.cs",
+              "RelativeToolTip": "Modelo\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:52:29.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\Clientes.cs",
+              "RelativeDocumentMoniker": "Modelo\\Clientes.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\Clientes.cs",
+              "RelativeToolTip": "Modelo\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:52:28.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Registro(user).Designer.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Registro(user).Designer.cs",
+              "RelativeDocumentMoniker": "Registro(user).Designer.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Registro(user).Designer.cs",
+              "RelativeToolTip": "Registro(user).Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:51:52.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultarVentas.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\ConsultarVentas.cs",
+              "RelativeDocumentMoniker": "ConsultarVentas.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\ConsultarVentas.cs",
+              "RelativeToolTip": "ConsultarVentas.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAD4v0kAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:51:06.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NuevoUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\NuevoUsuario.cs",
+              "RelativeDocumentMoniker": "NuevoUsuario.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\NuevoUsuario.cs",
+              "RelativeToolTip": "NuevoUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:35:08.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro(admin).cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Registro(admin).cs",
+              "RelativeDocumentMoniker": "Registro(admin).cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Registro(admin).cs",
+              "RelativeToolTip": "Registro(admin).cs",
+              "ViewState": "AgIAAGkCAAAAAAAAAAAAALcCAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:51:25.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modificar_Registros_Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modificar_Registros_Clientes.cs",
+              "RelativeDocumentMoniker": "Modificar_Registros_Clientes.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modificar_Registros_Clientes.cs",
+              "RelativeToolTip": "Modificar_Registros_Clientes.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:51:13.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Modelo\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\Usuarios.cs",
+              "RelativeToolTip": "Modelo\\Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:52:31.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\Ventas.cs",
+              "RelativeDocumentMoniker": "Modelo\\Ventas.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modelo\\Ventas.cs",
+              "RelativeToolTip": "Modelo\\Ventas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:52:32.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bienvenido.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Bienvenido.cs",
+              "RelativeDocumentMoniker": "Bienvenido.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Bienvenido.cs",
+              "RelativeToolTip": "Bienvenido.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:35:48.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultarVentas.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\AppData\\Local\\Temp\\.vsdbgsrc\\0ca2f87ea60c6dde4a791ff6ea6b0e1d455ff3a32818c5d8a8e8b9395d5b1b38\\ConsultarVentas.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0ca2f87ea60c6dde4a791ff6ea6b0e1d455ff3a32818c5d8a8e8b9395d5b1b38\\ConsultarVentas.cs",
+              "ToolTip": "C:\\Users\\josue\\AppData\\Local\\Temp\\.vsdbgsrc\\0ca2f87ea60c6dde4a791ff6ea6b0e1d455ff3a32818c5d8a8e8b9395d5b1b38\\ConsultarVentas.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0ca2f87ea60c6dde4a791ff6ea6b0e1d455ff3a32818c5d8a8e8b9395d5b1b38\\ConsultarVentas.cs [Read Only]",
+              "ViewState": "AgIAAFgAAAAAAAAAAAD4v2UAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:46:30.039Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Modificar_Registros_Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modificar_Registros_Ventas.cs",
+              "RelativeDocumentMoniker": "Modificar_Registros_Ventas.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Modificar_Registros_Ventas.cs",
+              "RelativeToolTip": "Modificar_Registros_Ventas.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAD4vxEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:39:08.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bienvenido.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Bienvenido.Designer.cs",
+              "RelativeDocumentMoniker": "Bienvenido.Designer.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Bienvenido.Designer.cs",
+              "RelativeToolTip": "Bienvenido.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:35:45.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Autenticacion.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Autenticacion.cs",
+              "RelativeDocumentMoniker": "Autenticacion.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Autenticacion.cs",
+              "RelativeToolTip": "Autenticacion.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T23:06:39.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MyApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\MyApplicationContext.cs",
+              "RelativeDocumentMoniker": "MyApplicationContext.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\MyApplicationContext.cs",
+              "RelativeToolTip": "MyApplicationContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:51:32.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:51:27.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "COSMOSCOM.sql",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\COSMOSCOM.sql",
+              "RelativeDocumentMoniker": "COSMOSCOM.sql",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\COSMOSCOM.sql",
+              "RelativeToolTip": "COSMOSCOM.sql",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-04T21:51:12.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsultarClientes.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\ConsultarClientes.cs",
+              "RelativeDocumentMoniker": "ConsultarClientes.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\ConsultarClientes.cs",
+              "RelativeToolTip": "ConsultarClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:51:05.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CambiarTarifa.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\CambiarTarifa.cs",
+              "RelativeDocumentMoniker": "CambiarTarifa.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\CambiarTarifa.cs",
+              "RelativeToolTip": "CambiarTarifa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:50:27.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdministraUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\AdministraUsuarios.cs",
+              "RelativeDocumentMoniker": "AdministraUsuarios.cs",
+              "ToolTip": "C:\\Users\\josue\\OneDrive\\Desktop\\SISTEMACOSMOSCOM-master\\SISTEMACOSMOSCOM-master\\AdministraUsuarios.cs",
+              "RelativeToolTip": "AdministraUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T21:50:13.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

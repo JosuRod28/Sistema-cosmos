@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Josue/source/repos/COSMOSCOM/COSMOSCOM/COSMOSCOM.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="0"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="150"/><column_width id="3" width="4124"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="5" parent="0"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,8:mainClientes"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">CREATE TRIGGER TR_InsertUsuario
+AFTER INSERT ON Usuarios
+FOR EACH ROW
+BEGIN
+    -- Insertar en Administrador si id_Rol es 1
+    INSERT INTO Administrador (id_usuario,usuario,clave,correo)
+    SELECT NEW.id_usuario,New.usuario,New.clave,New.correo
+    WHERE NEW.id_Rol = 1;
+
+    -- Insertar en Invitado si id_Rol es 2
+    INSERT INTO Invitados (id_usuario,usuario,clave,correo)
+    SELECT NEW.id_usuario,New.usuario,New.clave,New.correo
+    WHERE NEW.id_Rol = 2;
+END;
+
+
+INSERT INTO Usuarios (usuario,clave,correo,id_Rol) values (&quot;Josue&quot;,&quot;cosmos1&quot;,&quot;josuel.rfregoso@outlook.com&quot;,1)
+DELETE  FROM Usuarios WHERE id_usuario=1
+SELECT * FROM Usuarios;
+SELECT * from Administrador</sql><current_tab id="0"/></tab_sql></sqlb_project>

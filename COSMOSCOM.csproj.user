@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Josue\source\repos\COSMOSCOM\COSMOSCOM\Properties\PublishProfiles\FolderProfile7.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AdministraUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Bienvenido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CambiarTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Clave_Administrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Autenticacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modificar_Registros_Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modificar_Registros_Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Modificar_Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NuevoUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registro%28user%29.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registro(admin).cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResetPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SolicitarTokenForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
